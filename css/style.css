@@ -20,6 +20,7 @@ i {
   width: 200px;
   height: 200px;
   border: 5px solid white;
+  float: right;
 }
 
 .img-thumbnail {
@@ -27,4 +28,15 @@ i {
   width: 90px;
   height: 90px;
   margin: 2px;
+}
+
+@media (max-width: 576px) {
+  h4{
+    text-align: center;
+  }
+  .image-center {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
 }
