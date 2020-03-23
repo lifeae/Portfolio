@@ -45,3 +45,16 @@ i {
     margin-bottom: 20px;
   }
 }
+
+.active {
+  font-weight: bolder;
+  background-color: #303030;
+}
+
+.navbar-brand {
+  padding: 0.5rem 2rem;
+}
+
+.nav-link {
+  margin: 5px;
+}
