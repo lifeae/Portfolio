@@ -58,3 +58,31 @@ i {
 .nav-link {
   margin: 5px;
 }
+
+/* ANIMATIONS */
+
+.btn, .nav-item, .navbar-brand, .img-thumbnail, .card, h3 a i {
+  transform: scale(1);
+  transition: transform 400ms;
+}
+
+.btn:hover {
+  transform: scale(1.15);
+}
+
+
+.nav-item:hover, .navbar-brand:hover {
+  transform: scale(1.15);
+}
+
+.img-thumbnail:hover {
+  transform: scale(1.05);
+}
+
+.card:hover {
+  transform: scale(1.025);
+}
+
+h3 a i:hover {
+  transform: scale(1.4);
+}
