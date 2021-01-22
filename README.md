@@ -1,5 +1,5 @@
-# CV de Romain Leporatti
-### Comment visionner le CV
+# Protfolio Romain Leporatti
+### Comment le visionner
 #### En ligne
 https://romain-leporatti.herokuapp.com/html/index.html
 #### En local
