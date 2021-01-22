@@ -1,4 +1,4 @@
-# Protfolio Romain Leporatti
+# Portfolio Romain Leporatti
 ### Comment le visionner
 #### En ligne
 https://romain-leporatti.herokuapp.com/html/index.html
